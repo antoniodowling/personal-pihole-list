@@ -1,0 +1,10 @@
+(\.|^)2mdn\.net$
+(\.|^)3lift\.com$
+(\.|^)aliyun\.com$
+(\.|^)dns\.google$
+(\.|^)whatisyourcocktail\.com$
+^cdn[0-9]+\.optimizely\.com$
+^clients[0-9]+\.google\.com$
+^ns[0-9]+\.dropbox\.com$
+^s[0-9]+\.symcb\.com$
+^v[0-9]+\.events\.data\.microsoft\.com$
