@@ -387,3 +387,38 @@ youtube-nocookie.com
 youtubei.googleapis.com
 yt3.ggpht.com
 zee.cws.conviva.com
+# Samsung Telemetry & Analytics
+samsungacr.com
+log-config.samsungacr.com
+samsungrm.net
+metrics.samsung.com
+ocfconnect.samsungosp.com
+notice.samsungcloudsolution.com
+vas.samsungapps.com
+gpm.samsungqbe.com
+ads.samsungads.com
+ads.samsung.com
+ads.samsungads.tv
+analytics.samsungads.com
+tracking.samsungads.com
+config.samsungads.com
+avsvc.samsungcloudsolution.com
+cc-api-data.adobe.io
+aepxlg.adobe.com
+browser-intake-datadoghq.com
+scs.samsungqbe.com
+osb-v2.samsungqbe.com
+
+# Bixby & Voice Assistant
+bixby.samsung.com
+bixby-wakeup.samsung.com
+wakeup.samsungosp.com
+
+# App Usage & Tracking
+av.samsung.com
+notice.samsungcloudsolution.net
+lic.samsungapps.com
+licensing.samsungcloudsolution.com
+
+# Misc UUID tracking (possible beaconing)
+65d51797a924132454a596a1816c5e5b7c54f5387da45fb61a99038
