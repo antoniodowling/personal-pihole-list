@@ -11,6 +11,13 @@
 (^|\.)adservice\.google\.com
 (^|\.)doubleclick\.net
 
+# Broad Google/Ad/Meta tracking patterns
+(^|\.)2mdn\.net
+(^|\.)doubleclick\.net
+(^|\.)fbcdn\.net
+(^|\.)googletagmanager\.com
+(^|\.)google\-analytics\.com
+
 # Ad networks and tracking
 (^|\.)2mdn\.net
 (^|\.)3lift\.com
